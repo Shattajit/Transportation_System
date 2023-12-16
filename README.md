@@ -1,19 +1,17 @@
 
-# Courier Management System
+# Transportation System
 
-Welcome to the courier management system web application! This application is designed to manage couriers, and delivery in the company to streamline their operations and improve efficiency.
+Welcome to the Transportation System web application! This application is designed to manage employee's transportation schedule, and time table to streamline their operations and improve efficiency.
 
 ## Features
 
-- User login: Allows authorized users to make pickup request.
-
-- Employee login: Allows employees to manage the pickup request.
+- User login: Allows authorized users to make request.
 
 - Admin login: Allows admin to manage the whole system.
 
-- Order management: Enables users to create and manage orders for package pickup and delivery. This includes features for entering shipping details, tracking the status of orders, and generating invoices.
+- Request management: Enables users to create a request based transportation availabality. This includes features for entering details, tracking the status of buses, and generating invoices.
 
-- Tracking and tracing: It includes features for tracking the delivery status of packages, such as whether they have been delivered or are still in transit.
+- Tracking and tracing: It includes features for tracking the status of request, such as whether they have been accepted or are still in transit.
 
 - Reporting and analysis: Provides users with the ability to print reports
 
