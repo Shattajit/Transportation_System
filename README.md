@@ -9,7 +9,7 @@ Welcome to the Transportation System web application! This application is design
 
 - Admin login: Allows admin to manage the whole system.
 
-- Request management: Enables users to create a request based transportation availabality. This includes features for entering details, tracking the status of buses, and generating invoices.
+- Request management: Enables users to create a request based on transportation availabality. This includes features for entering details, tracking the status of buses, and generating invoices.
 
 - Tracking and tracing: It includes features for tracking the status of request, such as whether they have been accepted or are still in transit.
 
