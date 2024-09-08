@@ -21,7 +21,7 @@ This web application developed using programming languages and frameworks, such 
 
 ## Getting Started
 
-To get started with the courier management system web application, you will need to set up the application on a local server. Here is a general outline of the steps you will need to follow:
+To get started with the Transportation System web application, you will need to set up the application on a local server. Here is a general outline of the steps you will need to follow:
 
 1. Install a web server software on your local machine, such as Apache or Nginx.
 2. Install MySQL as the database management system and PHPMyAdmin for managing the database.
