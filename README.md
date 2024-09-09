@@ -26,7 +26,7 @@ To get started with the Transportation System web application, you will need to 
 1. Install a web server software on your local machine, such as Apache or Nginx.
 2. Install MySQL as the database management system and PHPMyAdmin for managing the database.
 3. Create a new database named _"royal_express_db"_ for the application in PHPMyAdmin.
-4. Clone or download the source code for the application from a repository, such as GitHub.
+4. Clone or download the source code for the application from the repository.
 5. Import necessary database tables and sample data into the new database using PHPMyAdmin.
 6. Start the web server and access the application through a web browser using the local server's URL.
 7. Login with your authorized credentials and start using the various features and functionalities of the application to manage and track your courier business.
